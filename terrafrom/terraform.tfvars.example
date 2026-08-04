@@ -1,0 +1,9 @@
+do_token = "dop_vxxxxxxxxxxxxxxxx"
+
+ssh_key_name = "toms-laptop"
+
+project_name = "microservices-poc"
+
+droplet_name = "microservices-vm"
+
+region = "blr1"
